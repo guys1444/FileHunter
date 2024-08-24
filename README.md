@@ -3,6 +3,7 @@ FileHunter is a powerful CLI tool that hunts down hidden encoded scripts in file
 
 
 scan-pdf path/to/your/pdf/file.pdf --encoding base64
+<br>
 scan-pdf path/to/your/pdf/file.pdf --encoding hex
 scan-pdf path/to/your/pdf/file.pdf --encoding url
 scan-pdf path/to/your/pdf/file.pdf --encoding html
